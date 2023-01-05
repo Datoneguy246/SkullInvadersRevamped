@@ -1,0 +1,30 @@
+$warn("a")
+warn("a")
+i need this to work
+temp = 32
+temp
+temp = "hey!"
+temp
+$set expose_output_functions true
+info("hey")
+qqq
+cprint("pup")
+info("h")
+warn("h")
+err("h")
+qqq
+err("h")
+qqq
+xxxxxx
+err("sup")
+qqq
+qqq
+qqq
+enemies
+currentEnemies
+clear
+clear
+clean
+qqq
+zqqq
+qqq
